@@ -1,0 +1,4 @@
+language: bash
+
+script:
+- shellcheck --shell=bash clear_drupal_cache.sh
